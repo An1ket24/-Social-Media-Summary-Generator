@@ -46,21 +46,14 @@
   </div>
 
   <div class="section">
-    <h2>📌 Example Output</h2>
+    <h2>Example Output</h1>
+<p>
+  For LinkedIn, the post is titled “The 2025 India-Pakistan Conflict: A Wake-Up Call for Geopolitical Strategists”, offering a professional and insightful analysis of the triggers, intensity, and key lessons from the short but impactful conflict. It uses hashtags like #Geopolitics, #ConflictResolution, #StrategicStudies, and #SouthAsia.
+On Facebook, the tone is more engaging with the title “🤯 A Month That Shook the World: The 2025 India-Pakistan Conflict”, summarizing how escalating tensions turned into a crisis, highlighting its relevance today, and featuring hashtags such as #IndiaPakistanConflict, #Geopolitics, #GlobalSecurity, and #SouthAsia.
+The Twitter/X version is succinct: “India-Pakistan conflict (May–June 2025): A month of intense military engagement sparked by terror and long-standing tensions”, accompanied by hashtags like #IndiaPakistanConflict, #Geopolitics, and #InternationalRelations.
 
-    <h3>🔗 LinkedIn</h3>
-    <p><strong>The 2025 India-Pakistan Conflict: A Wake-Up Call for Geopolitical Strategists</strong></p>
-    <p>A professional, insightful post analyzing the triggers, intensity, and lessons from the brief but significant conflict.</p>
-    <p><em>Hashtags:</em> #Geopolitics #ConflictResolution #StrategicStudies #SouthAsia</p>
 
-    <h3>📘 Facebook</h3>
-    <p><strong>🤯 A Month That Shook the World: The 2025 India-Pakistan Conflict</strong></p>
-    <p>An engaging breakdown of how tensions escalated and why it matters now more than ever.</p>
-    <p><em>Hashtags:</em> #IndiaPakistanConflict #Geopolitics #GlobalSecurity #SouthAsia</p>
-
-    <h3>🐦 Twitter/X</h3>
-    <p><strong>India-Pakistan conflict (May–June 2025):</strong> A month of intense military engagement sparked by terror and long-standing tensions.</p>
-    <p><em>Hashtags:</em> #IndiaPakistanConflict #Geopolitics #InternationalRelations</p>
+</p>
   </div>
 
   <div class="section">
